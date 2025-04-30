@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Know Your Fan</string>
+    <string name="welcome_title">Bem-vindo furioso(a)!</string>
+    <string name="welcome_description">Selecione a opção desejada para continuar</string>
+    <string name="signup_button">Cadastre-se</string>
+    <string name="login_button">Entrar</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="email_text">E-mail</string>
+    <string name="password_text">Senha</string>
+    <string name="name">Nome</string>
+    <string name="name_text">Nome completo</string>
+    <string name="birthday_text">Data de nascimento</string>
+    <string name="gender_text">Gênero</string>
+    <string name="address_text">Endereço</string>
+    <string name="empty_fields_error">Preencha todos os campos para prosseguir.</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="other_options_login">Ou faça login com:</string>
+    <string name="register_title">Dados pessoais</string>
+    <string name="select_date">Selecionar data</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Feminino</string>
+    <string name="gender_other">Outro</string>
+    <string name="content_title">Selecione abaixo os jogos que você tem interesse!</string>
+    <string name="select_text">Selecione aqui</string>
+    <string name="last_purchase_title">Você já adquiriu algum produto/serviço Furia?</string>
+    <string name="last_purchase_name">Se sim, qual produto/serviço foi?</string>
+    <string name="product_or_service">Produto/Serviço</string>
+    <string name="events_title">Selecione abaixo os eventos que você tem interesse!</string>
+    <string name="continue_button">Continuar</string>
 </resources>

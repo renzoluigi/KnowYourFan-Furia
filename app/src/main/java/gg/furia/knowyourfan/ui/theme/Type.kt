@@ -2,11 +2,15 @@ package gg.furia.knowyourfan.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
+import gg.furia.knowyourfan.R
 
-// Set of Material typography styles to start with
+val Anton = FontFamily(Font(R.font.anton))
+val BebasNeue = FontFamily(Font(R.font.bebas_neue))
+
 val Typography = Typography(
     bodyLarge = TextStyle(
         fontFamily = FontFamily.Default,
@@ -31,4 +35,12 @@ val Typography = Typography(
         letterSpacing = 0.5.sp
     )
     */
+)
+
+val AppTypography = Typography(
+    bodyLarge = TextStyle(
+        fontFamily = BebasNeue,
+        fontWeight = FontWeight.Normal,
+        fontSize = 16.sp
+    )
 )
